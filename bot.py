@@ -6,7 +6,7 @@ import time
 from aiogram import Bot, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.dispatcher import Dispatcher
-from aiogram.utils import executor 
+from aiogram.utils import executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters import CommandStart
 from aiogram.dispatcher.filters import Command
