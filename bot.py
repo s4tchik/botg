@@ -11,7 +11,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters import CommandStart
 from aiogram.dispatcher.filters import Command
 
-# Настройки
+# Настройки 
 API_TOKEN = ''
 HUGGINGFACE_API_TOKEN = ''
 DATABASE_FILE = 'db.db'
